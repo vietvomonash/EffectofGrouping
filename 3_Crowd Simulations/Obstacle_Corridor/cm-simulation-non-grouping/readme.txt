@@ -1,0 +1,1 @@
+This is the simulation of non-grouping behaviour in a corridor with an obstacle
