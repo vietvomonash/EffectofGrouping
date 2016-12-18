@@ -1,4 +1,4 @@
-This CD contains material used for the thesis's research experiment. Here is the structure of the CD:
+This CD contains material used for the research experiment. Here is the structure of the CD:
 
 
 1_Videos (.gif file format)
